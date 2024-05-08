@@ -19,3 +19,10 @@ This repository is divided to branches that correspond to the blog post sections
 * websockets - The code at the end of the Hello Websockets! section.
 * components-part2 - The code at the end of the Components-Phase 2 section.
 * websockets-part2 - The code at the end of the WebSockets-Phase 2 section.
+
+# TUTORIAL
+## 3.1
+Saya sudah melakukan semua sesuai perintah dan melakukan penginstallan NodeJS agar bisa menjalankan npm.
+
+## 3.2
+Untuk berkreasi, saya mengubah beberapa background dan tampilan layar serta mengubah judul pada bagian atas aplikasi.
